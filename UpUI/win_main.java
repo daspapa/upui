@@ -363,7 +363,7 @@ public class win_main extends JFrame {
 		progressBar_ing.setBorderPainted(true);
 		panel_1.add(progressBar_ing);
 
-		JLabel lblNewLabel_1 = new JLabel("Copyright by SK(\uC8FC) C&C SOT UpUI\uD300 ");
+		JLabel lblNewLabel_1 = new JLabel("");
 		lblNewLabel_1.setHorizontalAlignment(SwingConstants.RIGHT);
 		lblNewLabel_1.setFont(new Font("¸¼Àº °íµñ", Font.PLAIN, 8));
 		lblNewLabel_1.setBounds(381, 25, 203, 15);
